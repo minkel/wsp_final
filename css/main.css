@@ -1045,6 +1045,13 @@ footer{
 }
 /*===============================================shuttle Page=========================================*/
 
+.attractions{
+	width: 453px;
+	font: bold 24px helvetica, arial, sans-serif;
+	margin: 0px 0px 8px 0px;
+
+}
+
 #shuttle{
 	width: 948px;
 	overflow: hidden;
